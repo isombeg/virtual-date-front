@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/virtual-date-front/static/css/main.363a158d.chunk.css",
-    "main.js": "/virtual-date-front/static/js/main.43450b27.chunk.js",
-    "main.js.map": "/virtual-date-front/static/js/main.43450b27.chunk.js.map",
+    "main.js": "/virtual-date-front/static/js/main.5168314e.chunk.js",
+    "main.js.map": "/virtual-date-front/static/js/main.5168314e.chunk.js.map",
     "runtime-main.js": "/virtual-date-front/static/js/runtime-main.c9ce5f7b.js",
     "runtime-main.js.map": "/virtual-date-front/static/js/runtime-main.c9ce5f7b.js.map",
     "static/css/2.31461e4f.chunk.css": "/virtual-date-front/static/css/2.31461e4f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.6f224541.chunk.js",
     "static/css/main.363a158d.chunk.css",
-    "static/js/main.43450b27.chunk.js"
+    "static/js/main.5168314e.chunk.js"
   ]
 }
