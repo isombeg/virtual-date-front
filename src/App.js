@@ -8,7 +8,7 @@ import GameDisplay from './Components/GameDisplay';
 class App extends React.Component {
   // ws = new WebSocket('ws://localhost:8080/')
   // ws = new WebSocket('ws://git.heroku.com/virtual-date-api.git')
-  ws = new WebSocket('ws://virtual-date-api.herokuapp.com/')
+  ws = new WebSocket('wss://virtual-date-api.herokuapp.com/')
   
   constructor(){
     super();
